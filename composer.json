@@ -1,0 +1,19 @@
+{
+    "name": "nyash/come-and-go",
+    "autoload": {
+        "psr-4": {
+            "Nyash\\ComeAndGo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bnjunge",
+            "email": "survtechke@gmail.com"
+        }
+    ],
+    "require": {
+        "thiagoalessio/tesseract_ocr": "^2.12",
+        "mpdf/mpdf": "^8.1",
+        "setasign/fpdi": "^2.3"
+    }
+}
